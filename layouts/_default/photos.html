@@ -6,9 +6,9 @@
 </header>
 
 <div class="photo-grid">
-  {{ range seq 1 12 }}
-  <a href="/images/gallery/{{ . }}.jpg" class="glightbox photo-item" data-gallery="gallery">
-    <img src="/images/gallery/{{ . }}.jpg" alt="Photo {{ . }}" loading="lazy">
+  {{ range resources.Match "images/gallery/*" }}
+  <a href="{{ .RelPermalink }}" class="glightbox photo-item" data-gallery="gallery">
+    <img src="{{ .RelPermalink }}" alt="{{ .Name }}" loading="lazy">
   </a>
   {{ end }}
 </div>
