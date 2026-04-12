@@ -6,7 +6,7 @@ canonicalURL: "https://medium.com/@chrislee8613/cant-code-build-a-real-time-tea-
 cover:
   image: "https://cdn-images-1.medium.com/max/800/1*bRwzEClOYIq2SHNN973HiQ.png"
   relative: false
-tags: ["*Firebase", "usage", "after", "going", "live", "on", "2025/6/5*"]
+tags: ["Firebase", "Claude AI", "GitHub", "Web App"]
 ---
 ## How AI Can Help You Quickly Build a Multi-user, Real-time Synchronized Ordering Website
 

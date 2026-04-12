@@ -2,7 +2,8 @@ baseURL = "https://0Zhen.github.io/"
 languageCode = "zh-tw"
 title = "0箴"
 theme = "PaperMod"
-paginate = 10
+[pagination]
+  pagerSize = 10
 enableRobotsTXT = true
 buildDrafts = false
 enableEmoji = true
