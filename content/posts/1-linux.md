@@ -6,7 +6,8 @@ canonicalURL: "https://medium.com/@chrislee8613/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B
 cover:
   image: "https://cdn-images-1.medium.com/max/800/0*wcaW8a5WYiSBKVaD.jpg"
   relative: false
-tags: ["下一篇：**[跟我一起玩樹莓派", "#2：SSH", "連線搭配", "VS", "Code", "Remote，打造舒適的開發環境]**"]
+tags: ["連線搭配", "VS", "Code"]
+
 ---
 ![https://micro.rohm.com/tw/deviceplus/wp-content/uploads/2023/11/what-is-raspberrypi_01_2.jpg](https://cdn-images-1.medium.com/max/800/0*wcaW8a5WYiSBKVaD.jpg)
 *https://micro.rohm.com/tw/deviceplus/wp-content/uploads/2023/11/what-is-raspberrypi_01_2.jpg*
