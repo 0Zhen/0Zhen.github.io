@@ -57,6 +57,10 @@ enableEmoji = true
     name = "關於"
     url = "/about/"
     weight = 4
+  [[menu.main]]
+    name = "照片"
+    url = "/photos/"
+    weight = 5
 
 [outputs]
   home = ["HTML", "RSS", "JSON"]

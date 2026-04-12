@@ -1,0 +1,20 @@
+{{- define "main" }}
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/glightbox/dist/css/glightbox.min.css">
+
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+</header>
+
+<div class="photo-grid">
+  {{ range seq 1 12 }}
+  <a href="/images/gallery/{{ . }}.jpg" class="glightbox photo-item" data-gallery="gallery">
+    <img src="/images/gallery/{{ . }}.jpg" alt="Photo {{ . }}" loading="lazy">
+  </a>
+  {{ end }}
+</div>
+
+<script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
+<script>
+  GLightbox({ selector: '.glightbox' });
+</script>
+{{- end }}
