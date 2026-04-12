@@ -1,0 +1,52 @@
+{{- define "main" }}
+
+<header class="page-header">
+  <h1>{{ .Title }}</h1>
+  {{- with .Description }}
+  <p>{{ . }}</p>
+  {{- end }}
+</header>
+
+<div class="post-grid">
+  {{- range .Paginator.Pages }}
+  <article class="post-card">
+    <a href="{{ .Permalink }}" class="post-card-link">
+      {{- if .Params.cover.image }}
+      <div class="post-card-cover">
+        <img src="{{ .Params.cover.image }}" alt="{{ .Title }}" loading="lazy">
+      </div>
+      {{- else }}
+      <div class="post-card-cover post-card-cover--placeholder"></div>
+      {{- end }}
+      <div class="post-card-body">
+        <div class="post-card-meta">
+          <time>{{ .Date.Format "2006-01-02" }}</time>
+          {{- with .Params.tags }}
+          {{- range first 2 . }}
+          <span class="post-card-tag">{{ . }}</span>
+          {{- end }}
+          {{- end }}
+        </div>
+        <h2 class="post-card-title">{{ .Title }}</h2>
+        {{- with .Description }}
+        <p class="post-card-desc">{{ . | truncate 80 }}</p>
+        {{- end }}
+      </div>
+    </a>
+  </article>
+  {{- end }}
+</div>
+
+{{- if gt .Paginator.TotalPages 1 }}
+<nav class="post-pagination">
+  {{- if .Paginator.HasPrev }}
+  <a href="{{ .Paginator.Prev.URL }}" class="post-pagination-btn">← 上一頁</a>
+  {{- end }}
+  <span class="post-pagination-info">{{ .Paginator.PageNumber }} / {{ .Paginator.TotalPages }}</span>
+  {{- if .Paginator.HasNext }}
+  <a href="{{ .Paginator.Next.URL }}" class="post-pagination-btn">下一頁 →</a>
+  {{- end }}
+</nav>
+{{- end }}
+
+{{- end }}
