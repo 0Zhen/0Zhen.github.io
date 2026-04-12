@@ -1,0 +1,62 @@
+baseURL = "https://0Zhen.github.io/"
+languageCode = "zh-tw"
+title = "0箴"
+theme = "PaperMod"
+paginate = 10
+enableRobotsTXT = true
+buildDrafts = false
+enableEmoji = true
+
+[params]
+  author = "箴"
+  description = "馬達設計工程師，鐵人三項愛好者，記錄技術與生活"
+  defaultTheme = "light"
+  disableThemeToggle = false
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+  ShowToc = true
+  TocOpen = false
+  googleAnalytics = "G-YSGNYKJEB2"
+
+  [params.profileMode]
+    enabled = true
+    title = "箴"
+    subtitle = "馬達設計 × 鐵人三項 × 工程思維"
+    imageUrl = "images/icon.png"
+    imageTitle = "箴"
+
+    [[params.profileMode.buttons]]
+      name = "文章"
+      url = "/posts"
+
+    [[params.profileMode.buttons]]
+      name = "關於我"
+      url = "/about"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/0Zhen"
+
+[menu]
+  [[menu.main]]
+    name = "文章"
+    url = "/posts/"
+    weight = 1
+  [[menu.main]]
+    name = "標籤"
+    url = "/tags/"
+    weight = 2
+  [[menu.main]]
+    name = "搜尋"
+    url = "/search/"
+    weight = 3
+  [[menu.main]]
+    name = "關於"
+    url = "/about/"
+    weight = 4
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
