@@ -20,7 +20,6 @@ enableEmoji = true
   ShowCodeCopyButtons = true
   ShowToc = true
   TocOpen = false
-  googleAnalytics = "G-YSGNYKJEB2"
 
   [params.profileMode]
     enabled = true
