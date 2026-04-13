@@ -13,7 +13,13 @@
     <a href="{{ .Permalink }}" class="post-card-link">
       {{- if .Params.cover.image }}
       <div class="post-card-cover">
+        {{- if .Params.cover.relative }}
+          {{- with .Resources.GetMatch .Params.cover.image }}
+        <img src="{{ .RelPermalink }}" alt="{{ $.Title }}" loading="lazy">
+          {{- end }}
+        {{- else }}
         <img src="{{ .Params.cover.image }}" alt="{{ .Title }}" loading="lazy">
+        {{- end }}
       </div>
       {{- else }}
       <div class="post-card-cover post-card-cover--placeholder"></div>
