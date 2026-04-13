@@ -1,6 +1,6 @@
 ---
 title: "GitLab Runner 完整指南：從原理到 Windows 踩坑實錄"
-date: 2026-04-13T10:00:00Z
+date: 2026-04-13T00:00:00+08:00
 description: "從 GitLab Runner 的核心概念、架構原理，到實際在 Windows 環境部署 FastAPI 自動化流程的七個踩坑紀錄，一篇全搞懂。"
 tags: ["GitLab", "CI/CD", "DevOps", "Windows", "自動化部署"]
 ---
