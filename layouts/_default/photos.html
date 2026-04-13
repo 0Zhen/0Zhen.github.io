@@ -16,5 +16,10 @@
 <script src="https://cdn.jsdelivr.net/npm/glightbox/dist/js/glightbox.min.js"></script>
 <script>
   GLightbox({ selector: '.glightbox' });
+
+  const grid = document.querySelector('.photo-grid');
+  const items = [...grid.children];
+  items.sort(() => Math.random() - 0.5);
+  items.forEach(item => grid.appendChild(item));
 </script>
 {{- end }}
