@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 820 360" width="820" height="360" font-family="'Segoe UI', Arial, sans-serif">
+  <defs>
+    <linearGradient id="bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1a1a2e"/>
+      <stop offset="100%" style="stop-color:#16213e"/>
+    </linearGradient>
+    <linearGradient id="card1" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#e74c3c"/>
+      <stop offset="100%" style="stop-color:#c0392b"/>
+    </linearGradient>
+    <linearGradient id="card2" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#2980b9"/>
+      <stop offset="100%" style="stop-color:#1a5276"/>
+    </linearGradient>
+    <linearGradient id="card3" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#27ae60"/>
+      <stop offset="100%" style="stop-color:#1e8449"/>
+    </linearGradient>
+    <filter id="glow">
+      <feGaussianBlur stdDeviation="3" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+    <filter id="shadow">
+      <feDropShadow dx="0" dy="4" stdDeviation="6" flood-color="#00000040"/>
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="820" height="360" fill="url(#bg-grad)"/>
+
+  <!-- Decorative circles -->
+  <circle cx="700" cy="60" r="120" fill="none" stroke="#ffffff08" stroke-width="40"/>
+  <circle cx="100" cy="300" r="80" fill="none" stroke="#ffffff06" stroke-width="30"/>
+  <circle cx="410" cy="180" r="200" fill="none" stroke="#ffffff04" stroke-width="60"/>
+
+  <!-- Title -->
+  <text x="410" y="58" text-anchor="middle" font-size="28" font-weight="700" fill="white" filter="url(#glow)">鐵氧體磁鐵完整筆記</text>
+  <text x="410" y="88" text-anchor="middle" font-size="14" fill="#aaaacc" letter-spacing="2">製程 · 分類 · 性能 · 應用</text>
+
+  <!-- Divider -->
+  <line x1="200" y1="105" x2="620" y2="105" stroke="#ffffff20" stroke-width="1"/>
+
+  <!-- Card 1: 製程三維度 -->
+  <g filter="url(#shadow)">
+    <rect x="50" y="125" width="210" height="175" rx="14" fill="url(#card1)" opacity="0.92"/>
+  </g>
+  <text x="155" y="158" text-anchor="middle" font-size="13" font-weight="700" fill="white">製程三大維度</text>
+  <line x1="75" y1="168" x2="235" y2="168" stroke="#ffffff30" stroke-width="1"/>
+  <text x="155" y="191" text-anchor="middle" font-size="12" fill="#FFE0DD">混料：濕式 / 乾式</text>
+  <text x="155" y="214" text-anchor="middle" font-size="12" fill="#FFE0DD">固化：燒結 / 黏結</text>
+  <text x="155" y="237" text-anchor="middle" font-size="12" fill="#FFE0DD">排列：等方性 / 異方性</text>
+  <rect x="80" y="258" width="150" height="28" rx="8" fill="#ffffff18"/>
+  <text x="155" y="277" text-anchor="middle" font-size="11" fill="white" font-weight="600">最強：異方＋濕式＋燒結</text>
+
+  <!-- Card 2: 軟磁 vs 硬磁 -->
+  <g filter="url(#shadow)">
+    <rect x="305" y="125" width="210" height="175" rx="14" fill="url(#card2)" opacity="0.92"/>
+  </g>
+  <text x="410" y="158" text-anchor="middle" font-size="13" font-weight="700" fill="white">軟磁 vs 硬磁</text>
+  <line x1="330" y1="168" x2="490" y2="168" stroke="#ffffff30" stroke-width="1"/>
+  <text x="370" y="193" text-anchor="middle" font-size="11" fill="#CCE5FF" font-weight="600">軟磁</text>
+  <text x="450" y="193" text-anchor="middle" font-size="11" fill="#CCE5FF" font-weight="600">硬磁</text>
+  <text x="370" y="213" text-anchor="middle" font-size="11" fill="#E8F4FD">傳導磁通</text>
+  <text x="450" y="213" text-anchor="middle" font-size="11" fill="#E8F4FD">永久磁場</text>
+  <text x="370" y="233" text-anchor="middle" font-size="11" fill="#E8F4FD">低矯頑力</text>
+  <text x="450" y="233" text-anchor="middle" font-size="11" fill="#E8F4FD">高矯頑力</text>
+  <text x="370" y="253" text-anchor="middle" font-size="11" fill="#E8F4FD">變壓器</text>
+  <text x="450" y="253" text-anchor="middle" font-size="11" fill="#E8F4FD">馬達磁鐵</text>
+  <line x1="410" y1="178" x2="410" y2="265" stroke="#ffffff25" stroke-width="1"/>
+  <rect x="330" y="270" width="150" height="18" rx="5" fill="#ffffff15"/>
+  <text x="410" y="283" text-anchor="middle" font-size="10" fill="white">兩者都需充磁才能使用</text>
+
+  <!-- Card 3: 牌號與性能 -->
+  <g filter="url(#shadow)">
+    <rect x="560" y="125" width="210" height="175" rx="14" fill="url(#card3)" opacity="0.92"/>
+  </g>
+  <text x="665" y="158" text-anchor="middle" font-size="13" font-weight="700" fill="white">牌號 &amp; 性能比較</text>
+  <line x1="585" y1="168" x2="745" y2="168" stroke="#ffffff30" stroke-width="1"/>
+  <text x="665" y="190" text-anchor="middle" font-size="11" fill="#D5F5E3">Y30 / Y40：高性能燒結</text>
+  <text x="665" y="210" text-anchor="middle" font-size="11" fill="#D5F5E3">R10 / R20：橡膠黏結</text>
+  <line x1="585" y1="222" x2="745" y2="222" stroke="#ffffff20" stroke-width="1"/>
+  <text x="665" y="240" text-anchor="middle" font-size="11" fill="#D5F5E3">鐵氧體 ★☆☆ 低成本</text>
+  <text x="665" y="258" text-anchor="middle" font-size="11" fill="#D5F5E3">釹鐵硼 ★★★ 性能最強</text>
+  <text x="665" y="276" text-anchor="middle" font-size="11" fill="#D5F5E3">釤鈷  ★★★★ 耐高溫</text>
+  <rect x="590" y="285" width="150" height="5" rx="2" fill="#ffffff20"/>
+
+  <!-- Bottom label -->
+  <text x="410" y="338" text-anchor="middle" font-size="12" fill="#888aaa">馬達設計工程師筆記 · 0箴</text>
+</svg>
