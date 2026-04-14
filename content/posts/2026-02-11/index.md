@@ -6,6 +6,7 @@ canonicalURL: "https://medium.com/@chrislee8613/%E4%B8%89%E7%9B%B8%E9%A6%AC%E9%8
 cover:
   image: "https://cdn-images-1.medium.com/max/800/1*jgNxg5_OG21jdLsx7XrazA.jpeg"
   relative: false
+tags: ["馬達", "電磁設計"]
 ---
 ![Image by freepik](https://cdn-images-1.medium.com/max/800/1*jgNxg5_OG21jdLsx7XrazA.jpeg)
 *Image by freepik*

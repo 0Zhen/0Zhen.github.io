@@ -5,7 +5,7 @@ description: "馬達定轉子的鐵芯製程介紹"
 cover:
   image: "https://0Zhen.github.io/images/post/1.png"
   relative: false
-tags: ["馬達", "製程", "矽鋼片", "電磁鋼片", "沖壓"]
+tags: ["馬達", "矽鋼片", "製程", "沖壓"]
 categories: ["馬達"]
 ---
 

@@ -6,7 +6,8 @@ canonicalURL: "https://medium.com/@chrislee8613/fft-%E9%A0%BB%E8%AD%9C%E5%88%86%
 cover:
   image: "https://cdn-images-1.medium.com/max/800/1*ZQ66C5L_VOuQLmv68i9vgA.png"
   relative: false
-
+tags: ["馬達", "電磁設計", "FFT", "THD"]
+---
 
 ---
 *窗函數・補零・Cooley-Tukey・THD ── 從示波器 CSV 到 Excel 的完整流程*

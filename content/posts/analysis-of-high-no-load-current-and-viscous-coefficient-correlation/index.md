@@ -6,6 +6,7 @@ canonicalURL: "https://medium.com/@chrislee8613/analysis-of-high-no-load-current
 cover:
   image: "https://cdn-images-1.medium.com/max/800/0*JgE5PQKxktI2HKGz.jpg"
   relative: false
+tags: ["馬達", "電磁設計"]
 ---
 In motor systems, observing abnormally high no-load current can be puzzling. This article explores a commonly overlooked cause: excessive viscous coefficient.
 

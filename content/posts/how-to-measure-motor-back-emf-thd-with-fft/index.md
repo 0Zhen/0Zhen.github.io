@@ -6,7 +6,7 @@ canonicalURL: "https://medium.com/@chrislee8613/how-to-measure-motor-back-emf-th
 cover:
   image: "https://cdn-images-1.medium.com/max/800/1*1hVl1fNRYn_zqeEpxPyN4Q.png"
   relative: false
-tags: ["FFT", "Motor", "Analysis", "THD", "Back-EMF", "Signal", "Processing", "Harmonic"]
+tags: ["馬達", "電磁設計", "FFT", "THD", "Back-EMF", "Signal Processing"]
 ---
 *A practical guide to harmonic distortion analysis using a free browser-based tool*
 

@@ -6,7 +6,7 @@ canonicalURL: "https://medium.com/@chrislee8613/%E8%B7%9F%E6%88%91%E4%B8%80%E8%B
 cover:
   image: "https://cdn-images-1.medium.com/max/800/0*wcaW8a5WYiSBKVaD.jpg"
   relative: false
-tags: ["連線搭配", "VS", "Code"]
+tags: ["Linux", "樹莓派", "VS Code"]
 
 ---
 ![https://micro.rohm.com/tw/deviceplus/wp-content/uploads/2023/11/what-is-raspberrypi_01_2.jpg](https://cdn-images-1.medium.com/max/800/0*wcaW8a5WYiSBKVaD.jpg)
