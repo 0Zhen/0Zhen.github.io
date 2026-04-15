@@ -6,6 +6,7 @@ canonicalURL: "https://medium.com/@chrislee8613/book-review-how-to-know-a-person
 cover:
   image: "https://cdn-images-1.medium.com/max/800/0*kUYXVhCjxxz_72bz"
   relative: false
+tags: ["書評", "心理學"]
 ---
 - Author: David Brooks
 - Translator: 廖月娟

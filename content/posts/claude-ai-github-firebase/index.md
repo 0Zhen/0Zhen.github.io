@@ -6,6 +6,7 @@ canonicalURL: "https://medium.com/@chrislee8613/%E4%B8%8D%E6%9C%83%E5%AF%AB%E7%A
 cover:
   image: "https://cdn-images-1.medium.com/max/800/1*o9TNFnjcDxCPPkXo1W24tw.png"
   relative: false
+tags: ["AI", "程式設計", "Firebase"]
 ---
 > 如何透過 AI 協助快速建立一個支援多人協作、即時同步的點餐網站
 

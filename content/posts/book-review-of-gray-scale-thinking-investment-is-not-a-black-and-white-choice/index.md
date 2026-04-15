@@ -6,6 +6,7 @@ canonicalURL: "https://medium.com/@chrislee8613/book-review-of-gray-scale-thinki
 cover:
   image: "https://cdn-images-1.medium.com/max/800/0*h8KfoNunsUO4mJcK"
   relative: false
+tags: ["書評", "投資"]
 ---
 - Author: 謝孟恭
 - Publisher: 天下文化

@@ -6,6 +6,7 @@ canonicalURL: "https://medium.com/@chrislee8613/rsa-encryption-the-mathematical-
 cover:
   image: "https://cdn-images-1.medium.com/max/800/1*X0DqfXoYNn2iJ955CGdsEQ.png"
   relative: false
+tags: ["資訊安全", "密碼學"]
 ---
 ![](https://cdn-images-1.medium.com/max/800/1*X0DqfXoYNn2iJ955CGdsEQ.png)
 

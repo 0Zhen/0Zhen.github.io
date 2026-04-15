@@ -6,6 +6,7 @@ canonicalURL: "https://medium.com/@chrislee8613/a-firmware-engineers-deep-dive-p
 cover:
   image: "https://cdn-images-1.medium.com/max/800/0*4FilH3ljQvb9cW97.jpg"
   relative: false
+tags: ["電動自行車", "產業分析"]
 ---
 *A firmware engineer’s perspective on the competitive landscape of Taiwan’s electric-assisted bicycle market*
 

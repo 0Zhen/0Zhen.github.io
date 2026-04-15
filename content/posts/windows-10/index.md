@@ -6,6 +6,7 @@ canonicalURL: "https://medium.com/@chrislee8613/windows%E5%B7%A5%E4%BD%9C%E6%8E%
 cover:
   image: "https://cdn-images-1.medium.com/max/800/1*MxfZyovc51d5Dc8pcqfxYw.png"
   relative: false
+tags: ["Windows", "自動化"]
 ---
 ![](https://cdn-images-1.medium.com/max/800/1*MxfZyovc51d5Dc8pcqfxYw.png)
 

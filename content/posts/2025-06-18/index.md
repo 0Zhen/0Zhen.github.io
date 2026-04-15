@@ -6,6 +6,7 @@ canonicalURL: "https://medium.com/@chrislee8613/%E8%B7%AF%E7%94%B1%E5%99%A8%E5%A
 cover:
   image: "https://cdn-images-1.medium.com/max/800/1*lDeEgqhDWVEJripeYHyggw.jpeg"
   relative: false
+tags: ["網路", "路由器"]
 ---
 當你在家上網、傳訊息給朋友，或是看Netflix時，有沒有想過你的資料是如何穿越複雜的網路世界，最終到達目的地的？這背後的功臣，就是我們今天要介紹的主角 — — **路由器**。
 

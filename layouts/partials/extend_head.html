@@ -1,5 +1,10 @@
 <link rel="icon" type="image/png" href="/images/icon.png">
 <link rel="apple-touch-icon" href="/images/icon.png">
+
+<!-- Preconnect hints -->
+<link rel="preconnect" href="https://www.googletagmanager.com">
+<link rel="preconnect" href="https://www.google-analytics.com">
+
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-YSGNYKJEB2"></script>
 <script>
@@ -8,3 +13,40 @@
   gtag('js', new Date());
   gtag('config', 'G-YSGNYKJEB2');
 </script>
+
+<!-- JSON-LD Structured Data -->
+{{ if .IsHome }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Person",
+  "name": "箴",
+  "url": "{{ .Site.BaseURL }}",
+  "image": "{{ .Site.BaseURL }}images/icon.png",
+  "description": "{{ .Site.Params.description }}",
+  "sameAs": ["https://github.com/0Zhen"]
+}
+</script>
+{{ else if .IsPage }}
+<script type="application/ld+json">
+{
+  "@context": "https://schema.org",
+  "@type": "Article",
+  "headline": {{ .Title | jsonify }},
+  "datePublished": "{{ .Date.Format "2006-01-02" }}",
+  "dateModified": "{{ .Lastmod.Format "2006-01-02" }}",
+  "author": {
+    "@type": "Person",
+    "name": "箴",
+    "url": "{{ .Site.BaseURL }}"
+  },
+  "publisher": {
+    "@type": "Person",
+    "name": "箴",
+    "url": "{{ .Site.BaseURL }}"
+  },
+  "url": "{{ .Permalink }}",
+  "description": {{ .Description | default (.Summary | plainify) | jsonify }}
+}
+</script>
+{{ end }}

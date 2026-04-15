@@ -6,6 +6,7 @@ canonicalURL: "https://medium.com/@chrislee8613/building-a-personal-asset-tracki
 cover:
   image: "https://cdn-images-1.medium.com/max/800/1*rtVPE4iuH_jyxBpfGpayDQ.png"
   relative: false
+tags: ["Python", "程式設計", "理財"]
 ---
 In this digital era, monitoring personal assets is crucial for financial management. Today, I’ll share how to create a practical asset tracking web application by combining GitHub and Streamlit.
 

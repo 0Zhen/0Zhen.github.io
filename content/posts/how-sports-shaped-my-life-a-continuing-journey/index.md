@@ -6,6 +6,7 @@ canonicalURL: "https://medium.com/@chrislee8613/how-sports-shaped-my-life-a-cont
 cover:
   image: "https://cdn-images-1.medium.com/max/800/1*3vhcziQGryDqSplYDN76EA.jpeg"
   relative: false
+tags: ["鐵人三項", "生活"]
 ---
 ![CrossFit gym](https://cdn-images-1.medium.com/max/800/1*3vhcziQGryDqSplYDN76EA.jpeg)
 *CrossFit gym*

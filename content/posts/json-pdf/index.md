@@ -6,6 +6,7 @@ canonicalURL: "https://medium.com/@chrislee8613/%E5%B7%A5%E7%A8%8B%E5%B8%AB%E5%B
 cover:
   image: "https://cdn-images-1.medium.com/max/800/1*NOkUwKcevr-3zzBM-b6mnQ.png"
   relative: false
+tags: ["Python", "程式設計", "自動化"]
 ---
 ![](https://cdn-images-1.medium.com/max/800/1*NOkUwKcevr-3zzBM-b6mnQ.png)
 

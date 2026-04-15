@@ -6,6 +6,7 @@ canonicalURL: "https://medium.com/@chrislee8613/%E5%8F%83%E5%8A%A0renesas%E7%A0%
 cover:
   image: "https://cdn-images-1.medium.com/max/800/1*4gAWPzeq0RarnfgSZaEw6A.jpeg"
   relative: false
+tags: ["嵌入式", "DSP", "ARM"]
 ---
 上週參加了Renesas的技術研討會，演講中不斷提到DSP和ARM的應用差異，讓我開始思考這兩種架構在實際應用中的選擇考量。會後與幾位資深工程師交流，發現這個話題比想像中更複雜也更有趣。於是決定做一個系統性的調查，整理出這篇技術分析報告。
 

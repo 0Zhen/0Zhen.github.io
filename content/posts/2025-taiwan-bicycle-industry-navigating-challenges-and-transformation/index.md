@@ -6,6 +6,7 @@ canonicalURL: "https://medium.com/@chrislee8613/2025-taiwan-bicycle-industry-nav
 cover:
   image: "https://cdn-images-1.medium.com/max/800/0*u48DwOPcSnO5lVN8"
   relative: false
+tags: ["電動自行車", "產業分析"]
 ---
 ![Credit: Hyena](https://cdn-images-1.medium.com/max/800/0*u48DwOPcSnO5lVN8)
 *Credit: Hyena*

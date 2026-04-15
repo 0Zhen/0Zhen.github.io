@@ -3,6 +3,7 @@ title: "Life Sucks… But Here’s Why We Keep Going"
 date: 2025-01-13T15:21:26Z
 description: "Recently, I’ve noticed my body is recovering much slower than before. I used to be the one always inviting everyone to work out, but now I…"
 canonicalURL: "https://medium.com/@chrislee8613/life-sucks-but-heres-why-we-keep-going-7586d3b2d75f"
+tags: ["生活"]
 ---
 Recently, I’ve noticed my body is recovering much slower than before. I used to be the one always inviting everyone to work out, but now I don’t want to leave home or change into workout clothes. After CrossFit last Friday, my whole body was sore. Quite funny actually — I even had trouble scratching my head because my shoulders and triceps were so sore. Unable to go out and train, seeing friends actively training makes me feel down. Combined with today’s pessimistic cryptocurrency and stock market, I just can’t lift my spirits.
 

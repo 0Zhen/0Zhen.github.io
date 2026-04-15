@@ -6,6 +6,7 @@ canonicalURL: "https://medium.com/@chrislee8613/%E5%AE%9A%E6%9C%9F%E5%AE%9A%E9%A
 cover:
   image: "https://cdn-images-1.medium.com/max/800/1*fIARzL6xYSlFgCMsT15d4Q.png"
   relative: false
+tags: ["投資", "理財"]
 ---
 ## 前言
 

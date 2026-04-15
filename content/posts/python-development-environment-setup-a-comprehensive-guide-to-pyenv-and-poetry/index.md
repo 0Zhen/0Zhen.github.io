@@ -3,6 +3,7 @@ title: "Python Development Environment Setup: A Comprehensive Guide to pyenv and
 date: 2025-01-16T07:29:55Z
 description: "Setting up a Python development environment can be challenging, especially when managing multiple projects with different Python versions…"
 canonicalURL: "https://medium.com/@chrislee8613/python-development-environment-setup-a-comprehensive-guide-to-pyenv-and-poetry-752d65fb00e4"
+tags: ["Python", "程式設計", "開發環境"]
 ---
 Setting up a Python development environment can be challenging, especially when managing multiple projects with different Python versions and dependencies. This comprehensive guide will walk you through using pyenv and Poetry to create a robust, maintainable Python development environment.
 

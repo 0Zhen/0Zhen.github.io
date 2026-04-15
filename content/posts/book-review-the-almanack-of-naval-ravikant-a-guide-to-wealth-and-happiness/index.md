@@ -6,6 +6,7 @@ canonicalURL: "https://medium.com/@chrislee8613/book-review-the-almanack-of-nava
 cover:
   image: "https://cdn-images-1.medium.com/max/800/0*6cm69m_2GhHXWkN8"
   relative: false
+tags: ["書評", "人生哲學"]
 ---
 - Author: Eric Jorgenson
 - Translator: 謝佩妏

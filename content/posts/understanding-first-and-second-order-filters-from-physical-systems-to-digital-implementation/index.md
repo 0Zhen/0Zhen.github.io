@@ -6,6 +6,7 @@ canonicalURL: "https://medium.com/@chrislee8613/understanding-first-and-second-o
 cover:
   image: "https://cdn-images-1.medium.com/max/800/1*aN2ag3geLYT2T_QgElIToA.jpeg"
   relative: false
+tags: ["馬達", "電磁設計", "訊號處理"]
 ---
 ![Image by kjpargeter on Freepik](https://cdn-images-1.medium.com/max/800/1*aN2ag3geLYT2T_QgElIToA.jpeg)
 *Image by kjpargeter on Freepik*

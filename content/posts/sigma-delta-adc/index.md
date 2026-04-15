@@ -3,7 +3,7 @@ title: "Sigma Delta ADC 深度解析：從原理到實際應用"
 date: 2025-09-24T02:19:54Z
 description: "在數位世界與類比世界的橋樑中，ADC（類比數位轉換器）扮演著關鍵角色。而在眾多ADC架構中，Sigma Delta ADC以其獨特的設計理念和卓越的性能表現，成為高精度量測和音訊應用的首選方案。"
 canonicalURL: "https://medium.com/@chrislee8613/sigma-delta-adc-%E6%B7%B1%E5%BA%A6%E8%A7%A3%E6%9E%90-%E5%BE%9E%E5%8E%9F%E7%90%86%E5%88%B0%E5%AF%A6%E9%9A%9B%E6%87%89%E7%94%A8-fa1cff36ae20"
-
+tags: ["馬達", "電磁設計", "訊號處理"]
 ---
 在數位世界與類比世界的橋樑中，ADC（類比數位轉換器）扮演著關鍵角色。而在眾多ADC架構中，Sigma Delta ADC以其獨特的設計理念和卓越的性能表現，成為高精度量測和音訊應用的首選方案。
 

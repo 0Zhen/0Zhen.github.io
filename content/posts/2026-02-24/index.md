@@ -7,6 +7,7 @@ canonicalURL: "https://medium.com/@chrislee8613/%E7%B6%B2%E8%B7%AF%E4%B8%8D%E6%9
 cover:
   image: "https://cdn-images-1.medium.com/max/800/1*oE8jTY4Q73u-0CQEqCrhfw.png"
   relative: false
+tags: ["網路"]
 ---
 從你按下 Enter 的那一刻起，資料包經歷了什麼？HTTP、DNS、IP、NAT、Port……這些詞彙每天出現在工程師的世界，卻對大多數人像咒語一樣陌生。
 

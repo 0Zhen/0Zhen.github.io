@@ -3,6 +3,7 @@ draft: true
 title: "一、標準差 (Standard Deviation, σ)"
 date: 2020-01-01
 description: "定義"
+tags: ["統計", "品質管理"]
 ---
 **定義**
 

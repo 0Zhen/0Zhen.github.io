@@ -6,6 +6,7 @@ canonicalURL: "https://medium.com/@chrislee8613/%E4%BA%86%E8%A7%A3%E9%9B%BB%E8%B
 cover:
   image: "https://cdn-images-1.medium.com/max/800/1*H9HCEB-EKs_bkaQtzj4bDg.png"
   relative: false
+tags: ["電動自行車", "馬達", "物理"]
 ---
 在進行符合EN-15194與R200等標準的電輔車測試時，準確計算自行車阻力是至關重要的。不同的坡度、自行車重量以及其他因素都會影響阻力計算。讓我們一起探討如何運用簡單的物理學原理來更有效地計算這些力。
 

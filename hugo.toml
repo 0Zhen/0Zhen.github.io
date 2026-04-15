@@ -7,10 +7,12 @@ theme = "PaperMod"
 enableRobotsTXT = true
 buildDrafts = false
 enableEmoji = true
+env = "production"
 
 [params]
   author = "箴"
   description = "馬達設計工程師，鐵人三項愛好者，記錄技術與生活"
+  images = ["images/icon.png"]
   defaultTheme = "light"
   disableThemeToggle = false
   ShowReadingTime = true

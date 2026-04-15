@@ -3,6 +3,7 @@ title: "Lessons in Discipline: What Chris Bumstead Taught Me About Building a Le
 date: 2025-01-08T15:11:26Z
 description: "Have you ever wondered how elite athletes maintain their incredible discipline? Not just during competition, but in their everyday lives…"
 canonicalURL: "https://medium.com/@chrislee8613/lessons-in-discipline-what-chris-bumstead-taught-me-about-building-a-legendary-life-2c5ad8256ee3"
+tags: ["生活", "健身"]
 ---
 Have you ever wondered how elite athletes maintain their incredible discipline? Not just during competition, but in their everyday lives? Recently, I found myself captivated by a video featuring Chris Bumstead, the legendary bodybuilder. What struck me wasn’t just his physical achievements, but the profound wisdom he shared about personal transformation and habit building.
 

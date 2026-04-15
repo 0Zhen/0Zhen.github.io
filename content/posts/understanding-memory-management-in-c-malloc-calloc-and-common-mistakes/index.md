@@ -3,6 +3,7 @@ title: "Understanding Memory Management in C: malloc, calloc, and Common Mistake
 date: 2025-01-28T08:53:14Z
 description: "Memory management in C can be tricky, especially for beginners. In this article, we’ll explore the differences between malloc and calloc…"
 canonicalURL: "https://medium.com/@chrislee8613/understanding-memory-management-in-c-malloc-calloc-and-common-mistakes-b88c9cfc13e4"
+tags: ["C語言", "程式設計", "嵌入式"]
 ---
 Memory management in C can be tricky, especially for beginners. In this article, we’ll explore the differences between `malloc` and `calloc`, and look at some common mistakes developers make when using these functions.
 

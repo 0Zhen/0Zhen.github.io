@@ -6,6 +6,7 @@ canonicalURL: "https://medium.com/@chrislee8613/my-first-day-learning-c-understa
 cover:
   image: "https://cdn-images-1.medium.com/max/800/1*hhg7D80EwOc1heQFVPBcbg.png"
   relative: false
+tags: ["C語言", "程式設計"]
 ---
 ![](https://cdn-images-1.medium.com/max/800/1*hhg7D80EwOc1heQFVPBcbg.png)
 
