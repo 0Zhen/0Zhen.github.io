@@ -7,6 +7,7 @@ cover:
   relative: true
   caption: "電弧放電實驗（來源：[YouTube](https://www.youtube.com/watch?v=iO_2NA_eF-Q)）"
 tags: ["絕緣", "局部放電", "馬達", "高壓", "NEMA", "PD", "漆包線"]
+math: true
 ---
 
 > 隨著變頻器驅動馬達（Inverter-fed Motor）普及，高壓絕緣問題從「低壓工頻」升級為「高頻 PWM 脈衝衝擊」，局部放電（Partial Discharge, PD）成為工程師不得不面對的課題。這篇筆記整理了從磁線規範、介電物理，到 PD 測試實務的完整知識脈絡。
