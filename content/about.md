@@ -17,3 +17,12 @@ summary: about
 
 **Contact:** [jameslkk8613@email.com](mailto:jameslkk8613@email.com)  
 **GitHub:** [github.com/0Zhen](https://github.com/0Zhen)
+
+---
+
+## 作品
+
+**三鐵訓練工具** [bike-power-calculator.web.app](https://bike-power-calculator.web.app/)  
+**補給規劃** [bike-power-calculator.web.app/nutrition.html](https://bike-power-calculator.web.app/nutrition.html)  
+**補給品資料庫** [bike-power-calculator.web.app/products.html](https://bike-power-calculator.web.app/products.html)  
+**FFT 頻譜分析工具** [0zhen.github.io/fft-analyser](https://0zhen.github.io/fft-analyser/)
