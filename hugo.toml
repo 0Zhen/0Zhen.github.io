@@ -74,3 +74,5 @@ env = "production"
 
 [outputs]
   home = ["HTML", "RSS", "JSON", "Sitemap"]
+  page = ["HTML", "Sitemap"]
+  section = ["HTML", "RSS", "Sitemap"]
