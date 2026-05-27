@@ -27,7 +27,7 @@ env = "production"
     enabled = true
     title = "箴"
     subtitle = "馬達設計 × 鐵人三項 × 工程思維"
-    imageUrl = "images/icon.png"
+    imageUrl = "images/icon.jpeg"
     imageTitle = "箴"
 
     [[params.profileMode.buttons]]
