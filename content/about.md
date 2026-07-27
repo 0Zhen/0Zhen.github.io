@@ -25,4 +25,6 @@ summary: about
 **三鐵訓練工具** [bike-power-calculator.web.app](https://bike-power-calculator.web.app/)  
 **補給規劃** [bike-power-calculator.web.app/nutrition.html](https://bike-power-calculator.web.app/nutrition.html)  
 **補給品資料庫** [bike-power-calculator.web.app/products.html](https://bike-power-calculator.web.app/products.html)  
-**FFT 頻譜分析工具** [0zhen.github.io/fft-analyser](https://0zhen.github.io/fft-analyser/)
+**FFT 頻譜分析工具** [0zhen.github.io/fft-analyser](https://0zhen.github.io/fft-analyser/)  
+**馬達工具箱**(Efficiency Map／FFT Analyser／Working Point Explorer)[0zhen.github.io/motor-toolkit](https://0zhen.github.io/motor-toolkit/)  
+**開業雷達**(新設公司名單訂閱服務,landing page 驗證中)[0zhen.github.io/newco-radar](https://0zhen.github.io/newco-radar/)
