@@ -3,7 +3,7 @@ title: "如何判斷馬達的 IEC 效率等級（IE1~IE5）：標準選擇、量
 date: 2026-07-22T08:00:00+08:00
 description: "馬達 IE 效率等級不是查一張表就好：先判斷市電直驅或變頻驅動該用哪份標準、確認馬達是否為一體式設計（pump/fan/compressor 要特別小心）、再用正確的量測基準點與公式計算。附完整判斷流程、參考表與公式。"
 cover:
-  image: ""
+  image: "cover.png"
   relative: true
 tags: ["馬達", "IEC 60034-30-2", "效率等級", "PMSM", "標準"]
 ---
