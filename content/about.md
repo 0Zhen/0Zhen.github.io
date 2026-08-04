@@ -24,7 +24,8 @@ summary: about
 ---
 
 **Contact:** [jameslkk8613@email.com](mailto:jameslkk8613@email.com)  
-**GitHub:** [github.com/0Zhen](https://github.com/0Zhen)
+**GitHub:** [github.com/0Zhen](https://github.com/0Zhen)  
+**YouTube:** [@chris_0zhen](https://www.youtube.com/@chris_0zhen)
 
 ---
 
@@ -36,4 +37,5 @@ summary: about
 **FFT 頻譜分析工具** [0zhen.github.io/fft-analyser](https://0zhen.github.io/fft-analyser/)  
 **馬達工具箱**(Efficiency Map／FFT Analyser／Working Point Explorer)[0zhen.github.io/motor-toolkit](https://0zhen.github.io/motor-toolkit/)  
 **開業雷達**(新設公司名單訂閱服務,landing page 驗證中)[0zhen.github.io/newco-radar](https://0zhen.github.io/newco-radar/)  
-**freqtrade-quant**(樹莓派上的量化交易系統,自學開發中)[github.com/0Zhen/freqtrade-quant](https://github.com/0Zhen/freqtrade-quant)
+**freqtrade-quant**(樹莓派上的量化交易系統,自學開發中)[github.com/0Zhen/freqtrade-quant](https://github.com/0Zhen/freqtrade-quant)  
+**YouTube - 運動生活線**(越野騎行/訓練第一視角,首支：桃園光華坑登山車)[youtube.com/@chris_0zhen](https://www.youtube.com/@chris_0zhen)
