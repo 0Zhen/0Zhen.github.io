@@ -35,7 +35,6 @@ summary: about
 **補給規劃** [bike-power-calculator.web.app/nutrition.html](https://bike-power-calculator.web.app/nutrition.html)  
 **補給品資料庫** [bike-power-calculator.web.app/products.html](https://bike-power-calculator.web.app/products.html)  
 **馬達工具箱**(Efficiency Map／FFT Analyser／Working Point Explorer／DCR Calculator／CPK Analysis)[0zhen.github.io/motor-toolkit](https://0zhen.github.io/motor-toolkit/)  
-**品質管理核心指標完全指南：標準差、常態分佈與 CPK 實務應用** [文章連結](https://0zhen.github.io/posts/2026-03-13/)  
 **開業雷達**(新設公司名單訂閱服務,landing page 驗證中)[0zhen.github.io/newco-radar](https://0zhen.github.io/newco-radar/)  
 **freqtrade-quant**(樹莓派上的量化交易系統,自學開發中)[github.com/0Zhen/freqtrade-quant](https://github.com/0Zhen/freqtrade-quant)  
 **YouTube - 運動生活線**(越野騎行/訓練第一視角,首支：桃園光華坑登山車)[youtube.com/@chris_0zhen](https://www.youtube.com/@chris_0zhen)
